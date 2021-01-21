@@ -6,7 +6,7 @@
   Made with ❤️ by <a href="https://www.facebook.com/KM39453">YayanXD_</a>
 </p>
 <p align="center">
- <img src="https://github.com/Yayan-XD/kanjut/blob/main/cindy/Screenshot.jpg" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/Yayan-XD/kanjut/blob/main/cindy/PicsArt_01-21-04.56.13.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
 <a href="https://github.com/Yayan-XD/followers">
