@@ -14,8 +14,7 @@ def kontol():
                 kontol()
  	elif pler =="Yayan":
 		jalan("Lo Kontol tq ea")
-       
-	else:
+       	else:
 		print 'Slh kentod'
 		kontol()
 
