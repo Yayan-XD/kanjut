@@ -1,9 +1,10 @@
 #!/usr/bin/python2
 # coding=utf-8
 
+
+os.system('clear')
 def kontol():
 	global toket
-	os.system('clear')
 	print "Orang Yang Paling Ganteng😎 Adalah"
 	kontol()
 
