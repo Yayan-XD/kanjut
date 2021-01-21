@@ -6,7 +6,7 @@
   Made with ❤️ by <a href="https://www.facebook.com/KM39453">YayanXD_</a>
 </p>
 <p align="center">
- <img src="https://github.com/Yayan-XD/mbf-2/blob/main/Ngentod/kontol.png" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/Yayan-XD/kanjut/blob/main/cindy/Screenshot.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
 <a href="https://github.com/Yayan-XD/followers">
@@ -39,12 +39,12 @@
 
 ## Install script on Termux
 ```bash
-$ pkg update && okg upgrade
-$ pkg install git
-$ pkg install curl
-$ pkg install python2
-$ pip2 install requests
-$ pip2 install bs4
+> pkg update && okg upgrade
+> pkg install git
+> pkg install curl
+> pkg install python2
+> pip2 install requests
+> pip2 install bs4
 ```
 
 ## Run script
@@ -54,15 +54,15 @@ $ pip2 install bs4
 ```
 
 ## Informasi For Updates Script
-* V1 {Dump Id Friends lists}
-* V2 {Dump Id Friends}
-* V3 {Dump Id by Search name}
-* V4 {Dump Id like status}
-* V5 {Start crack}
-* V6 {Remove cookies}
-* V0 {Update tools}
-*  Mutli type login
-*   - Cokies
+* [01] Dump Id By Search Name
+* [02] Dump Id By Public Friendlist
+* [03] Dump Id By Group
+* [04] Dump Id By Your Message List
+* [05] Start Crack
+* [06] How To Get Cookie
+* [07] Move Account
+* [08] Joined Grup Facebook
+*   - [Cokies](https://youtu.be/BdNA1mCT-Uo)
 
 #### MY SOCIAL MEDIA
 
