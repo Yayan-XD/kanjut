@@ -15,7 +15,7 @@
   <a href="https://github.com/Yayan-XD/kanjut">
     <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Yayan-XD/kanjut.svg"/>
   </a>
-a href="https://github.com/Yayan-XD/kanjut">
+<a href="https://github.com/Yayan-XD/kanjut">
     <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Yayan-XD/kanjut.svg"/>
   </a>
 
