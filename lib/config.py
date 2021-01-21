@@ -2,7 +2,6 @@
 # coding=utf-8
 
 
-os.system('clear')
 def kontol():
 	global toket
 	print "Orang Yang Paling Ganteng😎 Adalah"
