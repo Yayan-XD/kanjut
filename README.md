@@ -53,6 +53,7 @@
 > cd kanjut
 > python2 crack.py
 ```
+### [USER+PASS](https://github.com/Yayan-XD/kanjut/blob/main/cindy/user%2Bpass.txt)
 
 ## Informasi For Updates Script
 * [01] Dump Id By Search Name
