@@ -8,7 +8,7 @@ def kontol():
 	pler = raw_input('> ')
 	if pler =="":
 		print 'Slh kentod'
-
+                kontol()
  	elif pler =="Yayan":
 		jalan("Lo Kontol tq ea")
        
