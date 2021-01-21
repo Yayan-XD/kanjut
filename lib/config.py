@@ -5,16 +5,16 @@ def kontol():
 	kontol()
 
 def kontol():
-	taik = raw_input('> ')
-	if taik =="":
+	pler = raw_input('> ')
+	if pler =="":
 		print 'Slh kentod'
 
- 	elif teak =="Yayan":
+ 	elif pler =="Yayan":
 		jalan("Lo Kontol tq ea")
        
 	else:
 		print 'Slh kentod'
 		kontol()
 
-
-
+if __name__=='__main__':
+	kontol()
