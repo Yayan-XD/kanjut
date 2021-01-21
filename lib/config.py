@@ -4,7 +4,7 @@
 
 def kontol():
 	global toket
-	print "Orang Yang Paling Ganteng😎 Adalah"
+	print "   Orang Yang Paling Ganteng😎 Adalah"
 	kontol()
 
 def kontol():
