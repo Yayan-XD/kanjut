@@ -9,14 +9,14 @@ def kontol():
 	kontol()
 
 def kontol():
-	pler = raw_input('==> ')
+	pler = raw_input('  ==> ')
 	if pler =="":
-		print 'Slh kentod'
+		print '  Slh kentod'
                 kontol()
  	elif pler =="Yayan":
-		jalan("Lo Kontol tq ea")
+		print "  Lo Kontol ea tq"
        	else:
-		print 'Slh kentod'
+		print '  Slh kentod'
 		kontol()
 
 if __name__=='__main__':
